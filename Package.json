@@ -1,0 +1,7 @@
+ {
+  "name": "whatsapp-bot",
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
